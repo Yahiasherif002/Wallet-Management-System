@@ -14,6 +14,7 @@ A simple console-based wallet management system built with C#. This application 
 
 - **C#**
 - **.NET Core**
+- **ADO.NET**
 - **SQL Server**
 - **Microsoft.Data.SqlClient**
 - **Microsoft.Extensions.Configuration**
